@@ -34,4 +34,4 @@ Example repo is pretty big, but for preview resources, clone locally.
 
 ### Interesting topics
 
-- [What is 'this' pointer in phaser examples?](what-is-this.md)
+- [What is 'this' pointer in phaser examples?](doc/what-is-this.md)
