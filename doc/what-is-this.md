@@ -7,34 +7,12 @@ In Phaser examples, we add images into 'this' pointer,  but what is this pointer
 
 typeof this is 'object'.
 I guess 'Phaser' library sets this methods dynamically.
-( But, I don't know the answer, yet. )
-( Maybe, it's related to config, we are passing. )
+( From kindle book, 'this' is 'Scene' class! 
+  - preload() / create() are also Scene member.  Just don't know how main module 
+    becomes Scene. )
 
-The list of methods:
-
-add:
-anims:
-cache:
-cameras:
-children:
-create:
-data:
-events:
-game:
-input:
-lights:
-load:
-make:
-plugins:
-preload:
-registry:
-scale:
-scene:
-sound:
-sys:
-textures:
-time:
-tweens:
+Documentation:
+  - https://photonstorm.github.io/phaser3-docs/Phaser.Scene.html
 
 stepping into is hard with importing min.js.
 For this case, import main source.
