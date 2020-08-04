@@ -11,4 +11,6 @@ Go through this order.
 https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLCw7wwjGEim4xTHUNLqp2JDgqio4Rh78l
 
 Let's follow this tutorial under 'luis-zuno' directory.
+../tutorial/luis-zuno
+
 
