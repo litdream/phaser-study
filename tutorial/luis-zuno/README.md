@@ -12,3 +12,10 @@ https://www.youtube.com/watch?v=frRWKxB9Hm0&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc7
 ```
 python3 -m http.server 8888
 ```
+
+
+## Part 2
+https://www.youtube.com/watch?v=gFXx7lgxK9A&list=PLDyH9Tk5ZdFzEu_izyqgPFtHJJXkc79no&index=2
+
+Loading text.
+
