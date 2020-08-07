@@ -10,6 +10,8 @@ These are mainly for API.  We can search individual class and namespaces from se
 
 Tutorial is in Main Phaser website, here(https://phaser.io/learn).
 
+Someone's note is pretty interesting, here(https://rexrainbow.github.io/phaser3-rex-notes/docs/site/).
+
 ### API doc:
 
 API git repo is here(https://github.com/photonstorm/phaser3-docs).
